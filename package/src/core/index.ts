@@ -2,6 +2,7 @@
 /* eslint-disable @typescript-eslint/explicit-function-return-type */
 import { List, from, toArray } from 'list';
 import { SYMBOL } from '~/constants';
+import './list-wire';
 
 export function wrapType(Class: any, val: any) {
   const prev = val.__internal_object__[SYMBOL];
