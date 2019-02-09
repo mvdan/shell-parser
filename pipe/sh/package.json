@@ -1,6 +1,6 @@
 {
   "name": "@shast/sh",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Rafa Mel",
   "private": true,
   "main": "build/lib",

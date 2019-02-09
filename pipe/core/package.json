@@ -1,6 +1,6 @@
 {
   "name": "@shast/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Rafa Mel",
   "private": true,
   "main": "build/lib",
@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
-    "@shast/sh": "^0.0.0",
+    "@shast/sh": "^0.0.1",
     "@types/camelcase": "^4.1.0",
     "camelcase": "^5.0.0",
     "concurrently": "^4.1.0",
@@ -43,7 +43,7 @@
     "nps": "^5.9.3",
     "onchange": "^5.2.0",
     "prettier": "^1.16.4",
-    "shell-parser": "^0.0.0",
+    "shell-parser": "^0.0.1",
     "shx": "^0.3.2",
     "typescript": "^3.2.1"
   },

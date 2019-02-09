@@ -1,6 +1,6 @@
 {
   "name": "shell-parser",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Rafa Mel",
   "description": "Shell parser",
   "keywords": [
@@ -45,8 +45,8 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
-    "@shast/core": "^0.0.0",
-    "@shast/sh": "^0.0.0",
+    "@shast/core": "^0.0.1",
+    "@shast/sh": "^0.0.1",
     "@types/camelcase": "^4.1.0",
     "concurrently": "^4.1.0",
     "cross-env": "^5.2.0",
